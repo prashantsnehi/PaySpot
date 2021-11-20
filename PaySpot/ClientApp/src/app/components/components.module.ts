@@ -5,6 +5,7 @@ import { HomeComponent } from './home/home.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { CounterComponent } from './counter/counter.component';
 import { FormsModule } from '@angular/forms';
+import { DistributorModule } from './distributor/distributor.module';
 
 @NgModule({
   declarations: [
@@ -15,13 +16,15 @@ import { FormsModule } from '@angular/forms';
   ],
   imports: [
     CommonModule,
-    FormsModule
+    FormsModule,
+    DistributorModule
   ],
   exports: [
     AppLoginComponent,
     HomeComponent,
     FetchDataComponent,
-    CounterComponent
+    CounterComponent,
+    DistributorModule
   ]
 })
 export class ComponentsModule { }

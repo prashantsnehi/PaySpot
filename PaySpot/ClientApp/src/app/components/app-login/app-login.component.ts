@@ -15,6 +15,7 @@ export class AppLoginComponent implements OnInit {
 
   login() {
     console.log(this.model);
+    //this.route.navigateByUrl('dashboard');
     this.route.navigateByUrl('fetch-data');
   }
 }

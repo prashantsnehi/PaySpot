@@ -12,6 +12,7 @@ import { HomeComponent } from './components/home/home.component';
 import { FetchDataComponent } from './components/fetch-data/fetch-data.component';
 import { CounterComponent } from './components/counter/counter.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
+import { DistributorDashboardComponent } from './components/distributor/distributor-dashboard/distributor-dashboard.component';
 
 
 @NgModule({
@@ -27,7 +28,8 @@ import { NavMenuComponent } from './nav-menu/nav-menu.component';
     RouterModule.forRoot([
       { path: '', component: HomeComponent, pathMatch: 'full' },
       { path: 'fetch-data', component: FetchDataComponent },
-      { path: 'counter', component: CounterComponent }
+      { path: 'counter', component: CounterComponent },
+      { path: 'dashboard', component: DistributorDashboardComponent }
     ]),
     BrowserAnimationsModule
   ],

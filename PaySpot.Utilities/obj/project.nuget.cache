@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "zj5xFMQ+u9cnYZr4X1IxQqCISVPxoV53gEi2Zpm7GVY1lS1Qob3fi54Xl/XYHe/OSf7zMwmwNMH6ziUE7wpK6w==",
+  "dgSpecHash": "B3WbpoWyHu5UtPxbfftKhrDBCYQExo5Zwh98FhSQbJbCohfEw5xmcNCK01w5ncdReTCx/Kwj9pQkBOApje2gCA==",
   "success": true,
-  "projectFilePath": "D:\\GIT Repositories\\Others\\PaySpot\\PaySpot.Utilities\\PaySpot.Utilities.csproj",
+  "projectFilePath": "/Users/psnehi/Projects/PaySpot/PaySpot.Utilities/PaySpot.Utilities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\psneh\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.11\\microsoft.aspnetcore.jsonpatch.5.0.11.nupkg.sha512",
-    "C:\\Users\\psneh\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.11\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.11.nupkg.sha512",
-    "C:\\Users\\psneh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\psneh\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
-    "C:\\Users\\psneh\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+    "/Users/psnehi/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.11/microsoft.aspnetcore.jsonpatch.5.0.11.nupkg.sha512",
+    "/Users/psnehi/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.11/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.11.nupkg.sha512",
+    "/Users/psnehi/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/psnehi/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/psnehi/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,19 +1,38 @@
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\obj\Debug\net5.0\PaySpot.Services.csproj.AssemblyReference.cache
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\obj\Debug\net5.0\PaySpot.Services.GeneratedMSBuildEditorConfig.editorconfig
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\obj\Debug\net5.0\PaySpot.Services.AssemblyInfoInputs.cache
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\obj\Debug\net5.0\PaySpot.Services.AssemblyInfo.cs
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\obj\Debug\net5.0\PaySpot.Services.csproj.CoreCompileInputs.cache
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\PaySpot.Services.deps.json
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\PaySpot.Services.dll
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\ref\PaySpot.Services.dll
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\PaySpot.Services.pdb
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\PaySpot.Infrastructure.dll
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\PaySpot.Models.dll
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\PaySpot.Utilities.dll
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\PaySpot.Infrastructure.pdb
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\PaySpot.Models.pdb
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\bin\Debug\net5.0\PaySpot.Utilities.pdb
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\obj\Debug\net5.0\PaySpot.Services.csproj.CopyComplete
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\obj\Debug\net5.0\PaySpot.Services.dll
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\obj\Debug\net5.0\ref\PaySpot.Services.dll
-D:\GIT Repositories\Others\PaySpot\PaySpot.Services\obj\Debug\net5.0\PaySpot.Services.pdb
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.csproj.AssemblyReference.cache
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.AssemblyInfoInputs.cache
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.AssemblyInfo.cs
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.csproj.CoreCompileInputs.cache
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Services.deps.json
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Services.dll
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/ref/PaySpot.Services.dll
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Services.pdb
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Infrastructure.dll
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Models.dll
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Utilities.dll
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Infrastructure.pdb
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Models.pdb
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Utilities.pdb
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.csproj.CopyComplete
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.dll
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/ref/PaySpot.Services.dll
+D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.pdb
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Services.deps.json
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Services.dll
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/ref/PaySpot.Services.dll
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Services.pdb
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Infrastructure.dll
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Models.dll
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Utilities.dll
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Infrastructure.pdb
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Models.pdb
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/bin/Debug/net5.0/PaySpot.Utilities.pdb
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.csproj.AssemblyReference.cache
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.AssemblyInfoInputs.cache
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.AssemblyInfo.cs
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.csproj.CoreCompileInputs.cache
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.dll
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/ref/PaySpot.Services.dll
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.pdb
+/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.csproj.CopyComplete
