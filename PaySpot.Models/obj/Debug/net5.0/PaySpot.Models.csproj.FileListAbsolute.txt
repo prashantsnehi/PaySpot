@@ -1,0 +1,11 @@
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\bin\Debug\net5.0\PaySpot.Models.deps.json
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\bin\Debug\net5.0\PaySpot.Models.dll
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\bin\Debug\net5.0\ref\PaySpot.Models.dll
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\bin\Debug\net5.0\PaySpot.Models.pdb
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\obj\Debug\net5.0\PaySpot.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\obj\Debug\net5.0\PaySpot.Models.AssemblyInfoInputs.cache
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\obj\Debug\net5.0\PaySpot.Models.AssemblyInfo.cs
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\obj\Debug\net5.0\PaySpot.Models.csproj.CoreCompileInputs.cache
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\obj\Debug\net5.0\PaySpot.Models.dll
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\obj\Debug\net5.0\ref\PaySpot.Models.dll
+D:\GIT Repositories\Others\PaySpot\PaySpot.Models\obj\Debug\net5.0\PaySpot.Models.pdb

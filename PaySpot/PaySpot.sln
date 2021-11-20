@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaySpot", "PaySpot.csproj", "{D693370F-BDF1-4437-9780-03C1210D0F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySpot.Infrastructure", "..\PaySpot.Infrastructure\PaySpot.Infrastructure.csproj", "{358998E7-3BCD-4115-87C5-F240B8975EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySpot.Models", "..\PaySpot.Models\PaySpot.Models.csproj", "{79D8B055-900B-4D19-A07C-D725EC7E0033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySpot.Utilities", "..\PaySpot.Utilities\PaySpot.Utilities.csproj", "{0C904F46-7D2F-4415-8C38-33B09010CB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySpot.Services", "..\PaySpot.Services\PaySpot.Services.csproj", "{D7352139-EE64-48BB-8ADF-319901BD8A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D693370F-BDF1-4437-9780-03C1210D0F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D693370F-BDF1-4437-9780-03C1210D0F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D693370F-BDF1-4437-9780-03C1210D0F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D693370F-BDF1-4437-9780-03C1210D0F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358998E7-3BCD-4115-87C5-F240B8975EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358998E7-3BCD-4115-87C5-F240B8975EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358998E7-3BCD-4115-87C5-F240B8975EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358998E7-3BCD-4115-87C5-F240B8975EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D8B055-900B-4D19-A07C-D725EC7E0033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D8B055-900B-4D19-A07C-D725EC7E0033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D8B055-900B-4D19-A07C-D725EC7E0033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D8B055-900B-4D19-A07C-D725EC7E0033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C904F46-7D2F-4415-8C38-33B09010CB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C904F46-7D2F-4415-8C38-33B09010CB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C904F46-7D2F-4415-8C38-33B09010CB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C904F46-7D2F-4415-8C38-33B09010CB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7352139-EE64-48BB-8ADF-319901BD8A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7352139-EE64-48BB-8ADF-319901BD8A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7352139-EE64-48BB-8ADF-319901BD8A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7352139-EE64-48BB-8ADF-319901BD8A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED817B94-0A48-4A61-BAD3-F8CF3FA2C219}
+	EndGlobalSection
+EndGlobal

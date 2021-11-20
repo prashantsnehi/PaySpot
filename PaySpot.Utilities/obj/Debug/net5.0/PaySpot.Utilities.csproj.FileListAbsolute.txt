@@ -1,0 +1,11 @@
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\bin\Debug\net5.0\PaySpot.Utilities.deps.json
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\bin\Debug\net5.0\PaySpot.Utilities.dll
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\bin\Debug\net5.0\ref\PaySpot.Utilities.dll
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\bin\Debug\net5.0\PaySpot.Utilities.pdb
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\obj\Debug\net5.0\PaySpot.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\obj\Debug\net5.0\PaySpot.Utilities.AssemblyInfoInputs.cache
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\obj\Debug\net5.0\PaySpot.Utilities.AssemblyInfo.cs
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\obj\Debug\net5.0\PaySpot.Utilities.csproj.CoreCompileInputs.cache
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\obj\Debug\net5.0\PaySpot.Utilities.dll
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\obj\Debug\net5.0\ref\PaySpot.Utilities.dll
+D:\GIT Repositories\Others\PaySpot\PaySpot.Utilities\obj\Debug\net5.0\PaySpot.Utilities.pdb
