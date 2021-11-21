@@ -11,6 +11,8 @@ namespace PaySpot.Utilities.Constants
         public enum Roles
         {
             User,
+            Agent,
+            Sales,
             Distributor,
             SuperDistributor,
             Admin,

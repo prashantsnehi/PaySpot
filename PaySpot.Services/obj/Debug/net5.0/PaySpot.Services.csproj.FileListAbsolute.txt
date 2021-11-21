@@ -35,4 +35,3 @@ D:/GIT Repositories/Others/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Ser
 /Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.dll
 /Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/ref/PaySpot.Services.dll
 /Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.pdb
-/Users/psnehi/Projects/PaySpot/PaySpot.Services/obj/Debug/net5.0/PaySpot.Services.csproj.CopyComplete

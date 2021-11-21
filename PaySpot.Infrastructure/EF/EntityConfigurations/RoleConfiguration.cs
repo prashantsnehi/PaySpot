@@ -15,7 +15,9 @@ namespace PaySpot.Infrastructure.EF.EntityConfigurations
         public void Configure(EntityTypeBuilder<IdentityRole> builder)
         {
             builder.HasData(
+                new IdentityRole { Name = Roles.Agent.ToString(), NormalizedName = Roles.Agent.ToString().ToUpper() },
                 new IdentityRole { Name = Roles.User.ToString(), NormalizedName = Roles.User.ToString().ToUpper() },
+                new IdentityRole { Name = Roles.Sales.ToString(), NormalizedName = Roles.Sales.ToString().ToUpper() },
                 new IdentityRole { Name = Roles.Distributor.ToString(), NormalizedName = Roles.Distributor.ToString().ToUpper() },
                 new IdentityRole { Name = Roles.SuperDistributor.ToString(), NormalizedName = Roles.SuperDistributor.ToString().ToUpper() },
                 new IdentityRole { Name = Roles.Admin.ToString(), NormalizedName = Roles.Admin.ToString().ToUpper() },

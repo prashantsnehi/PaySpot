@@ -33,4 +33,3 @@ D:/GIT Repositories/Others/PaySpot/PaySpot.Infrastructure/obj/Debug/net5.0/PaySp
 /Users/psnehi/Projects/PaySpot/PaySpot.Infrastructure/obj/Debug/net5.0/ref/PaySpot.Infrastructure.dll
 /Users/psnehi/Projects/PaySpot/PaySpot.Infrastructure/obj/Debug/net5.0/PaySpot.Infrastructure.pdb
 /Users/psnehi/Projects/PaySpot/PaySpot.Infrastructure/obj/Debug/net5.0/PaySpot.Infrastructure.genruntimeconfig.cache
-/Users/psnehi/Projects/PaySpot/PaySpot.Infrastructure/obj/Debug/net5.0/PaySpot.Infrastructure.csproj.CopyComplete
